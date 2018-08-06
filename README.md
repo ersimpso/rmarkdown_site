@@ -1,3 +1,3 @@
 # rmarkdown_site
 
-Example website redered with R markdown
+Example website rendered with R markdown
